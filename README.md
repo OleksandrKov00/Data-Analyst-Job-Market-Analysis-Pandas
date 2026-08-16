@@ -27,6 +27,15 @@ Seaborn — statistical visualization
 SciPy — statistical testing
 Jupyter Notebook
 
+💡 Key Takeaways
+Experience matters: Required years of experience show a moderate positive association with salary.
+
+More skills ≠ higher salary: The number of listed skills has virtually no linear relationship with salary.
+
+Skill type matters: Comparing individual skills across salary groups provides more useful insights than simply counting skills.
+
+Salary is influenced by multiple factors: Experience, role, location, skills, and other job characteristics should be considered together.
+
 🚀 Future Analysis
 
 Potential next steps include:
