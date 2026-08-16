@@ -32,7 +32,12 @@ Jupyter Notebook
 Potential next steps include:
 
 Salary analysis by job title and seniority
+
 Salary comparison by location and region
+
 Analysis of remote vs. hybrid vs. in-office roles
+
 Identifying skills with the strongest association with higher salaries
+
 Multivariable regression to analyze salary while controlling for experience, location, and other factors
+
