@@ -16,7 +16,7 @@ Is the number of required skills associated with higher salaries?
 
 Key variables include:
 
-Name | Years_of_experience | Salary(Min,Max,Avg) | Skills | Work_arrangement | Location | Region | English_level | Job_url 
+Name | Years_of_experience | Salary(Min,Max,Avg) | Skills | Work_arrangement | Location | Region | English_level
 
 🛠️ Tools & Technologies
 Python
