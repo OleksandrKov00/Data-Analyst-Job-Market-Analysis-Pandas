@@ -36,7 +36,7 @@ Skill type matters: Comparing individual skills across salary groups provides mo
 
 Salary is influenced by multiple factors: Experience, role, location, skills, and other job characteristics should be considered together.
 
-🚀 Future Analysis
+🚀 Following Analysis
 
 Potential next steps include:
 
