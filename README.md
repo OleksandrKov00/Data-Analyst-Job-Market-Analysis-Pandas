@@ -16,8 +16,8 @@ Is the number of required skills associated with higher salaries?
 
 Key variables include:
 
-Name — Job title
-Years_of_experience — Required experience
+Name | Years_of_experience | Salary | Skills Work_arrangement
+ — Required experience
 Min_Salary — Minimum salary
 Max_Salary — Maximum salary
 Avg_Salary — Average salary
@@ -28,4 +28,21 @@ Region — Geographic region
 English_level — Required English level
 Job_url — Original job posting
 
-![Uploading image.png…]()
+🛠️ Tools & Technologies
+Python
+Pandas — data cleaning and analysis
+NumPy — numerical operations
+Matplotlib — visualization
+Seaborn — statistical visualization
+SciPy — statistical testing
+Jupyter Notebook
+
+🚀 Future Analysis
+
+Potential next steps include:
+
+Salary analysis by job title and seniority
+Salary comparison by location and region
+Analysis of remote vs. hybrid vs. in-office roles
+Identifying skills with the strongest association with higher salaries
+Multivariable regression to analyze salary while controlling for experience, location, and other factors
