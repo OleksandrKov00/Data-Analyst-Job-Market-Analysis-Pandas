@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project explores data analyst job market data
+This project explores data analyst job market data gathered from multiple popular job websites
 
 The main goal is to answer questions such as:
 
