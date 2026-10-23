@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project explores job market data
+This project explores data analyst job market data
 
 The main goal is to answer questions such as:
 
