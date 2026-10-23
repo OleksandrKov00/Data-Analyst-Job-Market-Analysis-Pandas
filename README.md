@@ -2,7 +2,7 @@
 
 📌 Project Overview
 
-This project explores job market data to identify the factors associated with Data Analyst salaries and understand the skills and experience required across different roles.
+This project explores job market data
 
 The main goal is to answer questions such as:
 
@@ -36,9 +36,7 @@ Skill type matters: Comparing individual skills across salary groups provides mo
 
 Salary is influenced by multiple factors: Experience, role, location, skills, and other job characteristics should be considered together.
 
-🚀 Following Analysis
-
-Potential next steps include:
+🚀 Following Analysis include:
 
 Salary analysis by job title and seniority
 
